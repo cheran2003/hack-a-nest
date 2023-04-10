@@ -80,7 +80,7 @@ function App() {
         <footer className={styles.footer}>
           <h3 style={{ display: 'flex', alignItems: 'center' }}>
             ProvenX by team <span style={{ color: '#000', marginLeft: '5px' }}>
-              <a href="https://provenx.tech" rel="noopener noreferrer" target="_blank" style={{ color: '#0E76FD' }}>0xc0d3r(s)</a>
+              <a href="https://0xc0d3rs.tech" rel="noopener noreferrer" target="_blank" style={{ color: '#0E76FD' }}>0xc0d3r(s)</a>
             </span>
           </h3>
         </footer>
